@@ -1,2 +1,2 @@
-# Vicial
-A dedicated violence update app for both driving and non-driving users
+# vicial_dayzero
+A dedicated violence updates app for both Driving and Non-driving users
